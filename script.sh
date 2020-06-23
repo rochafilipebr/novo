@@ -1,1 +1,1 @@
-sudo docker run -dit --name webserver -p 8081:80 httpd
+docker run -dit --name webserver -p 8081:80 httpd
